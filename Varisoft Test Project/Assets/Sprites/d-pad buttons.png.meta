@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 5ec1c699d8187ec4f942abbdedf91a44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2485918327066629463
+    second: d-pad buttons_0
+  - first:
+      213: -8144601503429140563
+    second: d-pad buttons_1
+  - first:
+      213: -9106056173373364064
+    second: d-pad buttons_2
+  - first:
+      213: -2874224730349108657
+    second: d-pad buttons_3
+  - first:
+      213: 2010439738178462881
+    second: d-pad buttons_4
+  - first:
+      213: -1751427952390296330
+    second: d-pad buttons_5
+  - first:
+      213: -225295876700389271
+    second: d-pad buttons_6
+  - first:
+      213: -6523303316543673687
+    second: d-pad buttons_7
+  - first:
+      213: -1705151987880500520
+    second: d-pad buttons_8
+  - first:
+      213: 3817565387148565091
+    second: d-pad buttons_9
+  - first:
+      213: 342894708840028803
+    second: d-pad buttons_10
+  - first:
+      213: 1660439211610335779
+    second: d-pad buttons_11
+  - first:
+      213: -102703599734305367
+    second: d-pad buttons_12
+  - first:
+      213: -4530696847711091309
+    second: d-pad buttons_13
+  - first:
+      213: 7022169262780863121
+    second: d-pad buttons_14
+  - first:
+      213: -5152417202824335850
+    second: d-pad buttons_15
+  - first:
+      213: 1942967549740311519
+    second: d-pad buttons_16
+  - first:
+      213: 8289818860820586853
+    second: d-pad buttons_17
+  - first:
+      213: -7814171289312949093
+    second: d-pad buttons_18
+  - first:
+      213: 5906013743423006139
+    second: d-pad buttons_19
+  - first:
+      213: -908297677367451512
+    second: d-pad buttons_20
+  - first:
+      213: -2699922013970566071
+    second: d-pad buttons_21
+  - first:
+      213: -2989175012351605909
+    second: d-pad buttons_22
+  - first:
+      213: -4338292283831497702
+    second: d-pad buttons_23
+  - first:
+      213: -2846445685938768832
+    second: d-pad buttons_24
+  - first:
+      213: 3246973386307506836
+    second: d-pad buttons_25
+  - first:
+      213: -4879562481814359939
+    second: d-pad buttons_26
+  - first:
+      213: 3019976992025096664
+    second: d-pad buttons_27
+  - first:
+      213: 4372400061459107785
+    second: d-pad buttons_28
+  - first:
+      213: -4793737447927706291
+    second: d-pad buttons_29
+  - first:
+      213: -425311102764553546
+    second: d-pad buttons_30
+  - first:
+      213: -6778866673778543300
+    second: d-pad buttons_31
+  - first:
+      213: 297419826322380355
+    second: d-pad buttons_32
+  - first:
+      213: 8167167785466355251
+    second: d-pad buttons_33
+  - first:
+      213: -334254038878172318
+    second: d-pad buttons_34
+  - first:
+      213: -8503338027029020089
+    second: d-pad buttons_35
+  - first:
+      213: 8963761162404251581
+    second: d-pad buttons_36
+  - first:
+      213: 661929049757640902
+    second: d-pad buttons_37
+  - first:
+      213: -5987206177779606513
+    second: d-pad buttons_38
+  - first:
+      213: 2735714250797541009
+    second: d-pad buttons_39
+  - first:
+      213: 1980614646701871252
+    second: d-pad buttons_40
+  - first:
+      213: -7221934716606884371
+    second: d-pad buttons_41
+  - first:
+      213: 711359892793964161
+    second: d-pad buttons_42
+  - first:
+      213: 3973355913616969945
+    second: d-pad buttons_43
+  - first:
+      213: -8687005070580047687
+    second: d-pad buttons_44
+  - first:
+      213: 862822352230669275
+    second: d-pad buttons_45
+  - first:
+      213: 2546536432106852417
+    second: d-pad buttons_46
+  - first:
+      213: -3084820429991958263
+    second: d-pad buttons_47
+  - first:
+      213: -2775107699711606530
+    second: d-pad buttons_48
+  - first:
+      213: -1999706067735430498
+    second: d-pad buttons_49
+  - first:
+      213: -8310710805799937602
+    second: d-pad buttons_50
+  - first:
+      213: 958420094178144511
+    second: d-pad buttons_51
+  - first:
+      213: 6242275786463494693
+    second: d-pad buttons_52
+  - first:
+      213: -2767963050034885379
+    second: d-pad buttons_53
+  - first:
+      213: 5853938094144772747
+    second: d-pad buttons_54
+  - first:
+      213: -7433378505887643215
+    second: d-pad buttons_55
+  - first:
+      213: -2059645633930106875
+    second: d-pad buttons_56
+  - first:
+      213: 4631284933223356841
+    second: d-pad buttons_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d-pad buttons_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 506
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca8b1e8c0aa744c802fb8dd81901ea
+      internalID: 2485918327066629463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 506
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d82412b8907ea4c9ab8cfec70cfd3b
+      internalID: -8144601503429140563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 441
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37663c19b60dbf4b8575ec205f47806
+      internalID: -9106056173373364064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 533
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02255ca6cda9ba469f36434a1b94d13
+      internalID: -2874224730349108657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 483
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd012843959bfc74f9d82ad69673460e
+      internalID: 2010439738178462881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_5
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 584
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afcd3e934050742bf325a31c67e667
+      internalID: -1751427952390296330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_6
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 539
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc92852ff3d7c804f91ff66bb0eb2f17
+      internalID: -225295876700389271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 539
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f325edfa91a847a2a01d469d78bfe
+      internalID: -6523303316543673687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 458
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da147a7c96534439f26d576e56d885
+      internalID: -1705151987880500520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 458
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f52925652bb964696f023f15a68052
+      internalID: 3817565387148565091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_10
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 501
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2abd74f6700d342ac2288ebeb869f5
+      internalID: 342894708840028803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21763fe1c1b280c4795891f1707c71f6
+      internalID: 1660439211610335779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6220a25d82fe14b9ce38ce28b7c066
+      internalID: -102703599734305367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 300
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98134e9b119dd24885444fbfe1156cd
+      internalID: -4530696847711091309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_14
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 369
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff6f4a646cfdc419d676541d00f38f
+      internalID: 7022169262780863121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_15
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 298
+        width: 161
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a73d2dc69abf149b0652138eff3e39
+      internalID: -5152417202824335850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589ffb25cd6e0949a2e58d82d2d31ef
+      internalID: 1942967549740311519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 432
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e035a2081585d474993cb087cfec3397
+      internalID: 8289818860820586853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_18
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 401
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06573b4e35cdf344887b88f219fdce71
+      internalID: -7814171289312949093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0c6911a9a737a469551299a3224075
+      internalID: 5906013743423006139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa2fe889e91cf444a610e8c30479ac0
+      internalID: -908297677367451512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a159871b8588b0a4baacd2074db50b17
+      internalID: -2699922013970566071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253af19bee5164a42a0c44910359f17f
+      internalID: -2989175012351605909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_23
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12546378c563f0746a2652f4c62c0268
+      internalID: -4338292283831497702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 212
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93703030893e5884297e7f0ee4e33373
+      internalID: -2846445685938768832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5334c3a548e91c640a94a0b6acf99166
+      internalID: 3246973386307506836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f7a69813ce5845bbc5f2d0088e39c
+      internalID: -4879562481814359939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_27
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d0ede3a15765c4ebccd5f54ef5213c
+      internalID: 3019976992025096664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_28
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be612082eb7c24b8e9d72dcec00894
+      internalID: 4372400061459107785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_29
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4d5aeeab2102409f91a7fa7a63ee0
+      internalID: -4793737447927706291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_30
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 180
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3b9e534e06af43a3c2c5b42229146
+      internalID: -425311102764553546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec76c98554bac346ad7bcae9f39d0dc
+      internalID: -6778866673778543300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb530844c6dc6b640a0b9378f0712d1b
+      internalID: 297419826322380355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ff9d58ac3ffe4ea2fc85f0f998eef
+      internalID: 8167167785466355251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ad72bf6e96224ebe45efdcbe40aee
+      internalID: -334254038878172318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef6e8d73df6564fb5ca830c295aef1
+      internalID: -8503338027029020089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_36
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bb60c3de451f4ebeb92a64d5bcc8a
+      internalID: 8963761162404251581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107f7fca82d963409e29f07d7360ebb
+      internalID: 661929049757640902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_38
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9ede4f6eb76e4386d9d4d7d749ba5
+      internalID: -5987206177779606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c11b94ecd1caa4e8494f0bb4209625
+      internalID: 2735714250797541009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_40
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169d42186e0ece40a646d1105263ff1
+      internalID: 1980614646701871252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_41
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd811a7dbd7ab714ba87410ebd136921
+      internalID: -7221934716606884371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_42
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 90
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2501e71c0d8914c8082f241056caae
+      internalID: 711359892793964161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8d3525a4c69b40953152a269c11b5
+      internalID: 3973355913616969945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff1b5b958c60a44b169b117a29ffda
+      internalID: -8687005070580047687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6945719c45ab222458ccca42519232d5
+      internalID: 862822352230669275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928fb90762305441a7e6aa02091a86a
+      internalID: 2546536432106852417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97992d4648e8d47b884a7905abb38d
+      internalID: -3084820429991958263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_48
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 92
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e184885f16754eb69aedee7ea5cf6
+      internalID: -2775107699711606530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_49
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28429550a71a7f4dbb4558d9d578ffa
+      internalID: -1999706067735430498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3c3e77dc5fbf74ea4e15adec96a8a4
+      internalID: -8310710805799937602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_51
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311811351eaef44b843d50f27d40300
+      internalID: 958420094178144511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cebbc28fe3c14caae16ef0b4bf044
+      internalID: 6242275786463494693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_53
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749881c9b1900324e947e660a73a444f
+      internalID: -2767963050034885379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a199a31217c16c4a849e6848a0fd707
+      internalID: 5853938094144772747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_55
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c44609fd804be4c8fe16414c22f57d
+      internalID: -7433378505887643215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_56
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa48c6e51bbc6c42b0a8d1f31f4d5e5
+      internalID: -2059645633930106875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d-pad buttons_57
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ede91a8a8c9bb43a1ff042bedcf6e1
+      internalID: 4631284933223356841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
